@@ -1,0 +1,28 @@
+name: RDC Consultants
+favicon: null
+layout_spectrum: 0.9414606185164303
+typography_spectrum: 0.3411272254306823
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6485455925576389
+  lightness: 0.9453240109141916
+  saturation: 0.876139750238508
+  rhythmicContrast: 0.7715414590202272
+purpose: []
