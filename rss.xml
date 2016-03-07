@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[RDC Consultants]]></title>
         <description><![CDATA[RDC Consultants]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rdc-consultants/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 09:32:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 09:34:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rdc-consultants/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We are a design and marketing communications company that helps clients communicate effectively what makes them different and special. </p>]]></description>
-            <link>undefinedda50b905-ee6a-4a21-9190-243e963e4e11/index.html</link>
+            <link>https://thegrid.ai/rdc-consultants/da50b905-ee6a-4a21-9190-243e963e4e11/index.html</link>
             <guid isPermaLink="false">da50b905-ee6a-4a21-9190-243e963e4e11</guid>
-            <pubDate>Mon, 07 Mar 2016 09:32:33 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 09:33:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
